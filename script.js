@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function () {
         resultsContainer.style.display = 'none';
         errorMessage.style.display = 'none';
 
-        fetch('https://quizzizapi.squareweb.app/quizizz-answers', {
+        fetch('https://quizzizapii.squareweb.app/quizizz-answers', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
