@@ -1,3 +1,4 @@
+# DESATIVADO PARA MANUTENÇÃO
 # QuizizzX
 
 Uma ferramenta simples e rápida para encontrar respostas de quizzes do Quizizz e facilitar seus estudos.
